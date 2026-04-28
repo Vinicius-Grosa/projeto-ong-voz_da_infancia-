@@ -19,3 +19,20 @@ Facilitar a organização e administração do bazar, melhorando o controle de p
 ## 👥 Integrantes
 - Vinicius Pereira Grosa; Pedro Henrique Feliciano; Pedro Henrique Correa; Lucas Martins; 
 - Nome dos colegas
+
+## Descrição das Telas
+
+### Tela de Login
+Permite que o usuário acesse o sistema inserindo e-mail e senha. Possui opção de lembrar login e recuperação de senha.
+
+### Dashboard
+Exibe informações principais como valor arrecadado, itens em estoque, vendas e doações. Possui atalhos rápidos para ações.
+
+### Menu Lateral
+Permite navegação entre as funcionalidades do sistema como produtos, vendas, relatórios e perfil.
+
+### Tela de Produtos
+Lista os produtos disponíveis com filtros por status e categorias, além de opção de busca.
+
+### Tela de Detalhes do Produto
+Exibe informações completas do item e permite edição ou marcação como vendido
