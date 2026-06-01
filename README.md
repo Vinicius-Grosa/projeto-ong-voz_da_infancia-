@@ -7,14 +7,14 @@ O Voz da Infância é um projeto acadêmico desenvolvido para apoiar a ONG Lar C
 A proposta busca utilizar a tecnologia para tornar os processos mais organizados, acessíveis e eficientes, contribuindo para uma melhor gestão das atividades realizadas pela ONG.
 
 
-Sobre a ONG
+🏠 Sobre a ONG
 
 A Lar Casa Bela é uma organização social que desenvolve ações voltadas ao acolhimento e apoio de crianças e famílias em situação de vulnerabilidade.
 
 Para auxiliar na manutenção de suas atividades, a instituição realiza um bazar beneficente, responsável por arrecadar recursos que ajudam no desenvolvimento de seus projetos sociais.
 
 
-O Problema
+❗️O Problema
 
 Atualmente, o gerenciamento do bazar enfrenta dificuldades relacionadas à organização e ao controle das informações.
 
@@ -30,7 +30,7 @@ Entre os principais desafios identificados estão:
 Essas dificuldades impactam diretamente a gestão do bazar e a organização das atividades realizadas pela instituição.
 
 
-Nossa Solução
+💡 Nossa Solução
 
 O Voz da Infância propõe o desenvolvimento de um site web para centralizar e organizar todas as informações relacionadas ao bazar beneficente.
 
@@ -41,7 +41,7 @@ Por meio do sistema, será possível acompanhar informações importantes do baz
 O acesso poderá ser realizado por computadores, notebooks, tablets e smartphones através de um navegador web.
 
 
-Funcionalidades do Sistema
+🌐 Funcionalidades do Sistema
 
 O site contará com funcionalidades voltadas para o gerenciamento do bazar, incluindo:
 
@@ -55,32 +55,32 @@ O site contará com funcionalidades voltadas para o gerenciamento do bazar, incl
 
 ---
 
-Diferenciais do Projeto
+⭐️ Diferenciais do Projeto
 
-Centralização das Informações
+📁 Centralização das Informações
 
 Todos os dados do bazar estarão reunidos em um único ambiente digital.
 
-Facilidade de Uso
+🎯 Facilidade de Uso
 
 O sistema será desenvolvido com foco em uma navegação simples e intuitiva.
 
-Acesso Online
+📱 Acesso Online
 
 As informações poderão ser acessadas por meio de qualquer dispositivo com navegador e conexão à internet.
 
-Melhor Organização
+📊 Melhor Organização
 
 A plataforma reduzirá a dependência de registros manuais e informações dispersas.
 
-Apoio à Gestão
+🚀 Apoio à Gestão
 
 O sistema auxiliará no acompanhamento e controle dos produtos do bazar.
 
 
-Comparação com Métodos Tradicionais
+⚖️ Comparação com Métodos Tradicionais
 
-Método Atual
+📝 Método Atual
 
 - Registros manuais;
 - Informações descentralizadas;
@@ -88,7 +88,7 @@ Método Atual
 - Maior risco de erros;
 - Processo menos organizado.
 
-Solução Proposta
+💻 Solução Proposta
 
 - Sistema web integrado;
 - Informações centralizadas;
@@ -97,7 +97,7 @@ Solução Proposta
 - Gestão mais eficiente.
 
 
-Tecnologias Utilizadas
+⚒️ Tecnologias Utilizadas
 
 Para o desenvolvimento do projeto serão utilizadas tecnologias voltadas à construção de aplicações web:
 
@@ -122,7 +122,7 @@ Com a implantação do sistema, espera-se:
 
 
 
-Equipe do Projeto
+👥️ Equipe do Projeto
 
 - Vinicius Pereira 
 - Pedro Correa
@@ -132,7 +132,7 @@ Equipe do Projeto
 
 
 
-Contato
+📞 Contato
 
 Entre em contato com a equipe para mais informações sobre o projeto.
 
@@ -148,7 +148,7 @@ https://www.linkedin.com/in/lucas-vieira-b81a80328?utm_source=share&utm_campaign
 https://www.linkedin.com/in/vinicius-pereira-grosa-b110b33b0?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 
-
+©️
 © 2026 Projeto Voz da Infância. Todos os direitos reservados.
 
 Projeto acadêmico desenvolvido para fins educacionais em parceria com a ONG Lar Casa Bela.
